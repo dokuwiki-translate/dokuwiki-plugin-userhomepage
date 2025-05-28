@@ -2,8 +2,9 @@
 
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * 
- * @author   Simon DELAGE <sdelage@gmail.com>
+ *
+ * @author Andreas Heil <aeheil@gmail.com>
+ * @author Simon DELAGE <sdelage@gmail.com>
  * @author Padhie <develop@padhie.de>
  * @author Dana <dannax3@gmx.de>
  */
@@ -62,4 +63,5 @@ $lang['action_o_edit']         = 'Bearbeiten';
 $lang['action_o_show']         = 'Anzeigen';
 $lang['userlink_replace']      = 'Aktivieren des Ersetzens des [<code>Logged in as</code>] interwiki-Links, abhängig von Seiten erstellt durch Userhomepage (Funktioniert nur, wenn <code>showuseras</code> Option auf interwiki-Link gesetzt ist).';
 $lang['userlink_classes']      = 'Durch Leerzeichen getrennte Liste von CSS-Klassen die auf  [<code>Logged in as</code>] Interwiki-Links angewendet werden (Default: <code>interwiki iw_user wikilink1</code>).';
+$lang['userlink_icons']        = 'Benutzen Sie PNG-Bilder (älteres Format) oder SVG-Bilder (neueres Format) als Icons in Interwiki-Links (Standard: <code>png</code>).';
 $lang['userlink_fa']           = 'Benutzen von Fontawesome-Icons anstelle von Bildern (Fontawesome muss durch ein Template oder Plugin installiert sein) ?';
